@@ -1,0 +1,18 @@
+#reg{
+    width: 30%;
+    margin:auto;
+    padding: 5px;
+    margin-top: 100px;
+    border: 1px solid;
+ }
+ .input{
+     width: 50%;
+     margin: auto;
+     margin-bottom: 10px;
+ }
+ #btn{
+     background-color: blue;
+     color: white;
+     border: none;
+     cursor: pointer;
+ }
